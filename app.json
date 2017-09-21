@@ -1,0 +1,8 @@
+{
+  "name": "A name",
+  "description": "A description",
+  "repository": "https://github.com/sarpongkb/todo-list-api",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express"],
+  "image": "heroku/nodejs"
+}
